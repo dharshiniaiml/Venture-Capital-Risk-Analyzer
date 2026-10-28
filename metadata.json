@@ -1,0 +1,6 @@
+{
+  "name": "VentureCBT Risk Intelligence",
+  "description": "AI-powered venture capital risk scoring dashboard featuring a zero-framework vanilla JavaScript SPA and cognitive-behavioral thesis (CBT) engine for startup diligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
